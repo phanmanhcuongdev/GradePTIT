@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LearnC#\\29082005\\GradePTIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|d:\\learnc#\\29082005\\gradeptit\\gradeptit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|solutionrelative:gradeptit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|d:\\learnc#\\29082005\\gradeptit\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|solutionrelative:splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|D:\\LearnC#\\29082005\\GradePTIT\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|solutionrelative:splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|d:\\learnc#\\29082005\\gradeptit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|d:\\learnc#\\29082005\\gradeptit\\start.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|solutionrelative:start.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|d:\\learnc#\\29082005\\gradeptit\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|solutionrelative:start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|D:\\LearnC#\\29082005\\GradePTIT\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|solutionrelative:start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|d:\\learnc#\\29082005\\gradeptit\\splashscreen.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|solutionrelative:splashscreen.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|d:\\learnc#\\29082005\\gradeptit\\splashscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|solutionrelative:splashscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|d:\\learnc#\\29082005\\gradeptit\\start.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7DC5A542-6D53-42D9-807D-749BE097E383}|GradePTIT.csproj|solutionrelative:start.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradePTIT",
+              "DocumentMoniker": "D:\\LearnC#\\29082005\\GradePTIT\\GradePTIT.csproj",
+              "RelativeDocumentMoniker": "GradePTIT.csproj",
+              "ToolTip": "D:\\LearnC#\\29082005\\GradePTIT\\GradePTIT.csproj",
+              "RelativeToolTip": "GradePTIT.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T13:17:12.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SplashScreen.resx",
+              "DocumentMoniker": "D:\\LearnC#\\29082005\\GradePTIT\\SplashScreen.resx",
+              "RelativeDocumentMoniker": "SplashScreen.resx",
+              "ToolTip": "D:\\LearnC#\\29082005\\GradePTIT\\SplashScreen.resx",
+              "RelativeToolTip": "SplashScreen.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-29T12:26:28.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LearnC#\\29082005\\GradePTIT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\LearnC#\\29082005\\GradePTIT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:08:11.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SplashScreen.Designer.cs",
+              "DocumentMoniker": "D:\\LearnC#\\29082005\\GradePTIT\\SplashScreen.Designer.cs",
+              "RelativeDocumentMoniker": "SplashScreen.Designer.cs",
+              "ToolTip": "D:\\LearnC#\\29082005\\GradePTIT\\SplashScreen.Designer.cs",
+              "RelativeToolTip": "SplashScreen.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:05:06.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SplashScreen.cs",
+              "DocumentMoniker": "D:\\LearnC#\\29082005\\GradePTIT\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "SplashScreen.cs",
+              "ToolTip": "D:\\LearnC#\\29082005\\GradePTIT\\SplashScreen.cs",
+              "RelativeToolTip": "SplashScreen.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:02:05.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SplashScreen.cs [Design]",
+              "DocumentMoniker": "D:\\LearnC#\\29082005\\GradePTIT\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "SplashScreen.cs",
+              "ToolTip": "D:\\LearnC#\\29082005\\GradePTIT\\SplashScreen.cs [Design]",
+              "RelativeToolTip": "SplashScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:01:12.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Start.resx",
+              "DocumentMoniker": "D:\\LearnC#\\29082005\\GradePTIT\\Start.resx",
+              "RelativeDocumentMoniker": "Start.resx",
+              "ToolTip": "D:\\LearnC#\\29082005\\GradePTIT\\Start.resx",
+              "RelativeToolTip": "Start.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-28T17:41:03.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Start.Designer.cs",
+              "DocumentMoniker": "D:\\LearnC#\\29082005\\GradePTIT\\Start.Designer.cs",
+              "RelativeDocumentMoniker": "Start.Designer.cs",
+              "ToolTip": "D:\\LearnC#\\29082005\\GradePTIT\\Start.Designer.cs",
+              "RelativeToolTip": "Start.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:39:52.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Start.cs",
+              "DocumentMoniker": "D:\\LearnC#\\29082005\\GradePTIT\\Start.cs",
+              "RelativeDocumentMoniker": "Start.cs",
+              "ToolTip": "D:\\LearnC#\\29082005\\GradePTIT\\Start.cs",
+              "RelativeToolTip": "Start.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAgwOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:34:38.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Start.cs [Design]",
+              "DocumentMoniker": "D:\\LearnC#\\29082005\\GradePTIT\\Start.cs",
+              "RelativeDocumentMoniker": "Start.cs",
+              "ToolTip": "D:\\LearnC#\\29082005\\GradePTIT\\Start.cs [Design]",
+              "RelativeToolTip": "Start.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:33:22.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
